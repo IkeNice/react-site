@@ -12,7 +12,7 @@ export default class Header extends Component {
   render() {
     return (
       <>
-        <Navbar collapseOnSelect expend="md" bg="dark" variant="dark">
+        <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
           <Container>
             <Navbar.Brand href="/">
               <img
